@@ -1,0 +1,82 @@
+/*-------------------------
+    Plugin Admin CSS
+-------------------------*/
+#xga_header_slider_metabox h2.hndle.ui-sortable-handle,
+#xga_featured_grid_slider_metabox h2.hndle.ui-sortable-handle,
+#xga_post_layout_slider_metabox h2.hndle.ui-sortable-handle,
+#xga_post_filter_metabox h2.hndle.ui-sortable-handle,
+#xga_thumbnail_slider_metabox h2.hndle.ui-sortable-handle{
+    display: none;
+}
+
+.xgenious-plugins-gopro {
+    color: #39b54a;
+    font-weight: 700;
+}
+/* setting page */
+.settings-area-wrapper {
+    background-color: #fff;
+    padding: 60px;
+    margin-top: 30px;
+}
+
+.settings-area-wrapper .title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.settings-area-wrapper span,.settings-area-wrapper p {
+    font-size: 18px;
+    color: #656565;
+}
+
+ul.xg-main-row {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+ul.xg-main-row > li {
+    width: calc(100% / 3);
+    padding: 0 40px;
+    text-align: center;
+}
+
+ul.xg-main-row > li .title {
+    font-size: 26px;
+    line-height: 34px;
+    margin: 0;
+    margin-bottom: 16px;
+}
+
+ul.xg-main-row > li .icon{
+    margin-bottom: 30px;
+}
+ul.xg-main-row > li {
+    background-color: transparent !important;
+    border: none !important;
+}
+ul.xg-main-row > li p {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0;
+}
+ul.xg-main-row > li .xg-action-btn:hover {
+    opacity: .8;
+}
+ul.xg-main-row > li .xg-action-btn {
+    display: inline-block;
+    width: 180px;
+    height: 50px;
+    border-radius: 3px;
+    background-color: #18A530;
+    line-height: 50px;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    margin-top: 30px;
+    transition: all 500ms;
+}

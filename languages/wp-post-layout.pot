@@ -1,0 +1,305 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Post Grid / Slider / Filter By Xgenious\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-28 10:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: inc/functions/class-xg-posts-group-filelds.php:56
+msgid "Autoplay"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:63
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:42
+msgid "Desktop Item"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:98
+msgid "Dots"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:105
+#: inc/functions/class-xg-posts-group-filelds.php:112
+msgid "Dots Color"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-full-width-grid-addon.php:46
+#: inc/wpbakery/xg-vc-header-slider-addon.php:46
+#: inc/wpbakery/xg-vc-post-filter-addon.php:46
+#: inc/wpbakery/xg-vc-thumbnail-grid-addon.php:46
+msgid "General"
+msgstr ""
+
+#: xg-posts.php:74
+msgid "Go Pro"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/xgenious/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-post-layout"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:49
+msgid "Loop"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:70
+msgid "Margin"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:77
+msgid "Nav"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:119
+msgid "Nav Color"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:84
+msgid "Nav Left Icon"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:91
+msgid "Nav Right Icon"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-full-width-grid-addon.php:35
+#: inc/wpbakery/xg-vc-header-slider-addon.php:35
+#: inc/wpbakery/xg-vc-post-filter-addon.php:35
+#: inc/wpbakery/xg-vc-post-layout-grid-addon.php:35
+#: inc/wpbakery/xg-vc-thumbnail-grid-addon.php:35
+msgid "Post layout collection by xgenious."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"post modules Is a Plugin of blog post layout collection for WordPress , it's "
+"lightweight and high efficiency to help you build any tabs design quickly."
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-feature-grid.php:63
+#: inc/elementor/widgets/class-xg-posts-filter.php:63
+#: inc/elementor/widgets/class-xg-posts-full-width-grid.php:63
+#: inc/elementor/widgets/class-xg-posts-layout-grid.php:63
+#: inc/elementor/widgets/class-xg-posts-thumbnail-grid.php:63
+msgid "Select Shortcode"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-full-width-grid-addon.php:45
+#: inc/wpbakery/xg-vc-header-slider-addon.php:45
+#: inc/wpbakery/xg-vc-post-filter-addon.php:45
+#: inc/wpbakery/xg-vc-thumbnail-grid-addon.php:45
+msgid "select which shortcode you want to show "
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-feature-grid.php:67
+#: inc/elementor/widgets/class-xg-posts-filter.php:67
+#: inc/elementor/widgets/class-xg-posts-full-width-grid.php:67
+#: inc/elementor/widgets/class-xg-posts-layout-grid.php:67
+#: inc/elementor/widgets/class-xg-posts-thumbnail-grid.php:67
+msgid "select which you want to show."
+msgstr ""
+
+#: inc/wpbakery/xg-vc-post-filter-addon.php:43
+msgid "Select Xg post Filter Shor tcode"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-full-width-grid-addon.php:43
+msgid "Select Xg post full width grid Shor tcode"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-header-slider-addon.php:43
+msgid "Select Xg post header slider Shor tcode"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-thumbnail-grid-addon.php:43
+msgid "Select Xg post thumbnail  slider/grid Shor tcode"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:411 lib/xgm/xg_metabox_framework.php:450
+msgid "Theme Eight (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:453
+msgid "Theme Eleven (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:457
+msgid "Theme Fifteen (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:408 lib/xgm/xg_metabox_framework.php:447
+msgid "Theme Five (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:407 lib/xgm/xg_metabox_framework.php:446
+msgid "Theme Four (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:456
+msgid "Theme Fourteen (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:412 lib/xgm/xg_metabox_framework.php:451
+msgid "Theme Nine (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:410 lib/xgm/xg_metabox_framework.php:449
+msgid "Theme Seven (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:459
+msgid "Theme Seventeen (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:409 lib/xgm/xg_metabox_framework.php:448
+msgid "Theme Six (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:458
+msgid "Theme Sixteen (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:413 lib/xgm/xg_metabox_framework.php:452
+msgid "Theme Ten (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:455
+msgid "Theme Thirteen (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:406 lib/xgm/xg_metabox_framework.php:445
+msgid "Theme Three (Pro)"
+msgstr ""
+
+#: lib/xgm/xg_metabox_framework.php:454
+msgid "Theme Twelve (Pro)"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Post Grid / Slider / Filter By Xgenious"
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-feature-grid.php:57
+#: inc/elementor/widgets/class-xg-posts-full-width-grid.php:57
+#: inc/elementor/widgets/class-xg-posts-thumbnail-grid.php:57
+msgid "XG Featured Grid"
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-feature-grid.php:33
+msgid "Xg Featured Grid"
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-filter.php:33
+msgid "Xg Filter"
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-full-width-grid.php:33
+msgid "Xg Full Width Grid"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-full-width-grid-addon.php:33
+msgid "xg full width grid"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-header-slider-addon.php:33
+msgid "xg header slider"
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-layout-grid.php:33
+msgid "Xg Layouts"
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-filter.php:57
+msgid "XG Post Filter"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-post-filter-addon.php:33
+msgid "xg post Filter"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-post-layout-grid-addon.php:33
+msgid "xg post layout slider/grid"
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-layout-grid.php:57
+msgid "XG Post Layouts"
+msgstr ""
+
+#: inc/elementor/widgets/class-xg-posts-thumbnail-grid.php:33
+msgid "Xg Thumbnail"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-thumbnail-grid-addon.php:33
+msgid "xg thumbnail slider/grid"
+msgstr ""
+
+#. Author of the plugin
+msgid "Xgenious"
+msgstr ""
+
+#: inc/wpbakery/xg-vc-full-width-grid-addon.php:36
+#: inc/wpbakery/xg-vc-header-slider-addon.php:36
+#: inc/wpbakery/xg-vc-post-filter-addon.php:36
+#: inc/wpbakery/xg-vc-post-layout-grid-addon.php:36
+#: inc/wpbakery/xg-vc-thumbnail-grid-addon.php:36
+msgid "Xp Post Modules"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:66
+msgid "you can set autoplay timeout, time count in mili seconds"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:108
+#: inc/functions/class-xg-posts-group-filelds.php:115
+msgid "you can set dots color"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:45
+msgid "you can set how many item you want to show in slider"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:87
+#: inc/functions/class-xg-posts-group-filelds.php:94
+msgid "you can set icon for nav"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:73
+msgid "you can set margin. no need to put px"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:122
+msgid "you can set nav color"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:59
+msgid "you can set on/off autoplay"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:101
+msgid "you can set on/off dots"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:52
+msgid "you can set on/off loop"
+msgstr ""
+
+#: inc/functions/class-xg-posts-group-filelds.php:80
+msgid "you can set on/off nav"
+msgstr ""
